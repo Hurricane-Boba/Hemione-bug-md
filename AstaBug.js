@@ -2454,7 +2454,7 @@ ${readmore}
 ◈ᴄʟᴇᴀʀᴄʜᴀᴛ 
 ◈ᴠᴠ
 ┗━━━━━━━━━━━
-@ɢʀᴇʏ.ɪɴᴄ`
+© ɢʀᴇʏ.ɪɴᴄ`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
                         text: xeonmenuoh,
@@ -2473,7 +2473,7 @@ if (typemenu === 'v1') {
                     })
                     } else if (typemenu === 'v2') {
                     XeonBotInc.sendMessage(m.chat, {
-      video: fs.readFileSync('./AstaMedia/grey.mov'),
+      video: fs.readFileSync('./AstaMedia/thumb2.mp4'),
       gifPlayback: true,
       caption: xeonmenuoh,
       contextInfo: {
